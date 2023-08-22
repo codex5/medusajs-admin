@@ -118,7 +118,7 @@
     "test": "vitest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "build:admin": "medusa-admin build --deployment --backend \"https://cooliotub.tylernguyen.dev\""
+    "build:admin": "medusa-admin build --deployment --backend cooliotub.tylernguyen.dev"
   },
   "repository": {
     "type": "git",
